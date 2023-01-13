@@ -18,13 +18,18 @@ Secara keseluruhan, metodologi penelitian ini bertujuan untuk mengevaluasi kemam
 TEKNIK DEEP LEARING YANG DIGUNAKAN
 
 Model dengan menggunakan algoritma CNN (Convolutional Neural Network)
+
 Model dengan menggunakan algoritma Transfer Learning Resnet50
+
 Model dengan menggunakan algoritma Transfer Learning DenseNet50
+
 Model dengan menggunakan algoritma InceptionV3 model dilatih dengan menggunakan google colabolatory.
 
-Jurnal referensi
+REFERENSI
+
 Jurnal referensi pada projek ini berjudul 'KLASIFIKASI CITRA ANJING DAN KUCING MENGGUNAKAN 
 METODE CONVOLUTIONAL NEURAL NETWORK (CNN)'
+
 Agung Slamet Riyadi1
 , Ire Puspa Wardhani2 dan Susi Widayati2
 (1)Universitas Gunadarma
@@ -32,7 +37,8 @@ Jl. Margonda Raya No. 100, Depok, Jawa Barat 16424
 (2)STMIK Jakarta STI&K
 Jl. BRI No.17, Radio Dalam, Kebayoran Baru, Jakarta Selatan 12140
 
-Authors
+AUTORS
+
 Kontributor dalam projek ini yaitu :
 
 Ikhwan Awwaluddin Albab (202010370311325)
