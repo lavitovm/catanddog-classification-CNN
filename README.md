@@ -36,11 +36,17 @@ Authors
 Kontributor dalam projek ini yaitu :
 
 Ikhwan Awwaluddin Albab (202010370311325)
+
 La Vito Valentino Mirrabbirrahim (202010370311345)
 
 Inspiration, code snippets, etc.
+
 CNN Tensorflow
+
 DenseNet Documentation
+
 Resnet Documentation
+
 Keras Documentation of Transfer Learning Model
+
 Data AUgmentation Using Tensorflow
