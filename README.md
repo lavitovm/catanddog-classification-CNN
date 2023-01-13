@@ -17,13 +17,13 @@ Secara keseluruhan, metodologi penelitian ini bertujuan untuk mengevaluasi kemam
 
 TEKNIK DEEP LEARING YANG DIGUNAKAN
 
-Model dengan menggunakan algoritma CNN (Convolutional Neural Network)
+- Model dengan menggunakan algoritma CNN (Convolutional Neural Network)
 
-Model dengan menggunakan algoritma Transfer Learning Resnet50
+- Model dengan menggunakan algoritma Transfer Learning Resnet50
 
-Model dengan menggunakan algoritma Transfer Learning DenseNet50
+- Model dengan menggunakan algoritma Transfer Learning DenseNet50
 
-Model dengan menggunakan algoritma InceptionV3 model dilatih dengan menggunakan google colabolatory.
+- Model dengan menggunakan algoritma InceptionV3 model dilatih dengan menggunakan google colabolatory.
 
 REFERENSI
 
@@ -41,18 +41,19 @@ AUTORS
 
 Kontributor dalam projek ini yaitu :
 
-Ikhwan Awwaluddin Albab (202010370311325)
+- Ikhwan Awwaluddin Albab (202010370311325)
 
-La Vito Valentino Mirrabbirrahim (202010370311345)
+- La Vito Valentino Mirrabbirrahim (202010370311345)
 
-Inspiration, code snippets, etc.
 
-CNN Tensorflow
+INSPIRATION
 
-DenseNet Documentation
+- CNN Tensorflow
 
-Resnet Documentation
+- DenseNet Documentation
 
-Keras Documentation of Transfer Learning Model
+- Resnet Documentation
 
-Data AUgmentation Using Tensorflow
+- Keras Documentation of Transfer Learning Model
+
+- Data AUgmentation Using Tensorflow
